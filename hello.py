@@ -1,2 +1,2 @@
-def hey():
-    print('hey')
+def heyy():
+    print('heyy')
