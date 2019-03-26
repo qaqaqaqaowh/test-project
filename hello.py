@@ -3,3 +3,4 @@ def hello():
 
 def bye():
 	print ("bye")
+	print("Hola mis amigos")
